@@ -1,6 +1,6 @@
 import chinese from '../config/content-zh.json';
 import english from '../config/content-en.json';
-export const language = typeof window !== 'undefined' && (new URLSearchParams(window.location.search).get('lang') === 'en' || window.location.pathname.endsWith('/en.html')) ? 'en' : 'zh';
+export const language = typeof window !== 'undefined' && new URLSearchParams(window.location.search).get('lang') === 'zh' ? 'zh' : 'en';
 const content = language === 'en' ? english : chinese;
 const {site: siteData, hero: heroData, about: aboutData, news: newsItems, publications: publicationItems, experience: experienceItems, education: educationData, awards: awardsData, projects: projectItems} = content;
 export const t = (en, zh) => language === 'en' ? en : zh;

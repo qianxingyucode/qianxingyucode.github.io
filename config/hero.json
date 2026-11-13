@@ -1,12 +1,12 @@
 {
-  "name": "钱兴宇",
-  "title": "博士研究生",
+  "name": "Xingyu Qian",
+  "title": "PhD Student",
   "profileImage": "assets/xingyu-profile.png",
   "brandLogo": "assets/brand.svg",
   "descriptions": [
     {
       "icon": "openai",
-      "text": "中国人民大学高瓴人工智能学院"
+      "text": "Gaoling School of Artificial Intelligence, Renmin University of China"
     },
     {
       "icon": "sparkles",

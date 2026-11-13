@@ -1,27 +1,27 @@
 [
   {
-    "organization": "阿里巴巴达摩院",
+    "organization": "DAMO Academy, Alibaba Group",
     "logo": "assets/damo.svg",
     "period": "2025.02 – 2026.09",
-    "role": "实习算法工程师，Agentic AI",
+    "role": "Algorithm Engineer Intern, Agentic AI",
     "details": [
       {
-        "label": "导师：",
-        "text": "导师：荣钰、徐挺洋。",
+        "label": "Mentorship:",
+        "text": "Mentors: Yu Rong and Tingyang Xu.",
         "segments": [
           {
-            "text": "荣钰",
+            "text": "Yu Rong",
             "href": "https://scholar.google.com/citations?user=itezhEMAAAAJ"
           },
           {
-            "text": "、"
+            "text": " and "
           },
           {
-            "text": "徐挺洋",
+            "text": "Tingyang Xu",
             "href": "https://scholar.google.com/citations?user=6gIs5YMAAAAJ"
           },
           {
-            "text": "。"
+            "text": "."
           }
         ]
       }

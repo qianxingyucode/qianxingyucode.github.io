@@ -2,31 +2,31 @@
   "enabled": true,
   "items": [
     {
-      "institution": "中国人民大学 (RUC)",
-      "degree": "博士研究生，高瓴人工智能学院",
-      "period": "2025.09 – 至今",
-      "description": "导师：黄文炳。",
+      "institution": "Renmin University of China (RUC)",
+      "degree": "PhD Student, Gaoling School of Artificial Intelligence",
+      "period": "2025.09 – Present",
+      "description": "Advisor: Wenbing Huang.",
       "descriptionSegments": [
         {
-          "text": "导师："
+          "text": "Advisor: "
         },
         {
-          "text": "黄文炳",
+          "text": "Wenbing Huang",
           "href": "https://scholar.google.com/citations?user=0yNkmO4AAAAJ"
         },
         {
-          "text": "。"
+          "text": "."
         }
       ]
     },
     {
-      "institution": "中南大学 (CSU)",
-      "degree": "自动化学院，人工智能专业",
+      "institution": "Central South University (CSU)",
+      "degree": "Artificial Intelligence, School of Automation",
       "period": "2021.09 – 2025.06",
-      "description": "获2022年、2024年国家奖学金。",
+      "description": "National Scholarship recipient in 2022 and 2024.",
       "descriptionSegments": [
         {
-          "text": "获2022年、2024年国家奖学金。"
+          "text": "National Scholarship recipient in 2022 and 2024."
         }
       ]
     }
