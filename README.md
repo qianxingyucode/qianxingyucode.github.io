@@ -14,6 +14,6 @@ npm run build
 npm run preview
 ```
 
-Chinese is the default; use `?lang=en` or the built `en.html` for English. Both CVs are served from `public/files/`. The upstream GitHub Pages workflow remains available when this directory is published as a repository. For a project subpath, update Vite base and asset URLs before deployment. No domain or remote publication is configured.
+Chinese is the default; use `?lang=en` or the built `en.html` for English. Both CVs are served from `public/files/`. The public site is configured at https://qianxingyucode.github.io/. The `main` branch contains source; GitHub Pages serves prebuilt files from the `gh-pages` branch. Custom Actions cannot currently run because GitHub reports an account billing lock, so the custom workflow is manual-only. Updates must be built locally and pushed to `gh-pages`; pushing source alone does not update the live site. The built-in Pages branch deployment remains available.
 
 Generated content lives in `config/content-zh.json` and `content-en.json`; theme settings remain in `config/theme.jsonc`. The original author's personal media and profile content have been removed from this working copy. No paper abstract or external link is invented when the shared profile does not supply it.
