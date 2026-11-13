@@ -19,3 +19,6 @@ html[lang="zh-CN"] .intro-text { line-height: 2; }
 
 .mentor-link { text-decoration: underline; text-decoration-color: #93a9ae; text-underline-offset: 3px; }
 .mentor-link:hover { text-decoration-color: currentColor; }
+
+.experience .org-logo { width: 5.25rem; height: 2rem; object-fit: contain; }
+@media (max-width: 600px) { .experience .org-logo { width: 3.75rem; height: 1.75rem; } }
