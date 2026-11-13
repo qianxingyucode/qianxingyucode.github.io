@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Xingyu Qian</title>
+  <rect width="64" height="64" rx="15" fill="#244f46"/>
+  <g fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 20 27 44M27 20 12 44"/>
+    <ellipse cx="43" cy="31" rx="10" ry="12"/>
+    <path d="m46 38 7 8"/>
+  </g>
+</svg>

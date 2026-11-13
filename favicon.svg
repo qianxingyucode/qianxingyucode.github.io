@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="600" height="400" rx="24" fill="#edf2f2"/><circle cx="520" cy="30" r="180" fill="#254f63" opacity=".08"/><path d="M50 290h500M50 310h320" stroke="#254f63" opacity=".2"/><text x="50" y="195" font-family="Georgia,serif" font-size="64" fill="#254f63">XQ</text><text x="52" y="239" font-family="Arial,sans-serif" font-size="20" fill="#254f63">XINGYU QIAN</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Xingyu Qian</title>
+  <rect width="64" height="64" rx="15" fill="#244f46"/>
+  <g fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 20 27 44M27 20 12 44"/>
+    <ellipse cx="43" cy="31" rx="10" ry="12"/>
+    <path d="m46 38 7 8"/>
+  </g>
+</svg>
