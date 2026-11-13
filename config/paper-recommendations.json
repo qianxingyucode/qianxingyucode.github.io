@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "endpoint": "",
+  "limit": 4,
+  "cacheMinutes": 30,
+  "daily": {
+    "enabled": false,
+    "limit": 4,
+    "keywords": [
+      "Agentic AI",
+      "AI for Healthcare"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "organization": "阿里巴巴达摩院",
+    "logo": "assets/damo.svg",
+    "period": "2025.02 – 2026.09",
+    "role": "实习算法工程师，Agentic AI",
+    "details": [
+      {
+        "label": "导师：",
+        "text": "导师：荣钰、徐挺洋。",
+        "segments": [
+          {
+            "text": "荣钰",
+            "href": "https://scholar.google.com/citations?user=itezhEMAAAAJ"
+          },
+          {
+            "text": "、"
+          },
+          {
+            "text": "徐挺洋",
+            "href": "https://scholar.google.com/citations?user=6gIs5YMAAAAJ"
+          },
+          {
+            "text": "。"
+          }
+        ]
+      }
+    ]
+  }
+]

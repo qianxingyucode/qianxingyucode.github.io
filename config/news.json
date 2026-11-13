@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2026",
+    "segments": [
+      {
+        "text": "ACTOR",
+        "strong": true,
+        "kind": "paper",
+        "href": "https://aclanthology.org/2026.emnlp-main.2402/"
+      },
+      {
+        "text": " 入选 "
+      },
+      {
+        "text": "EMNLP 2026 Main",
+        "strong": true,
+        "kind": "strong"
+      },
+      {
+        "text": "，获 "
+      },
+      {
+        "text": "Oral",
+        "strong": true,
+        "kind": "oral"
+      },
+      {
+        "text": " 展示。"
+      }
+    ]
+  },
+  {
+    "date": "2025",
+    "segments": [
+      {
+        "text": "ReasonMed",
+        "strong": true,
+        "kind": "paper",
+        "href": "https://aclanthology.org/2025.emnlp-main.1344/"
+      },
+      {
+        "text": " 入选 "
+      },
+      {
+        "text": "EMNLP 2025",
+        "strong": true,
+        "kind": "strong"
+      },
+      {
+        "text": "，获 "
+      },
+      {
+        "text": "SAC Highlight Award",
+        "strong": true,
+        "kind": "award"
+      },
+      {
+        "text": "（"
+      },
+      {
+        "text": "35/3230",
+        "strong": true,
+        "kind": "strong"
+      },
+      {
+        "text": "）。"
+      }
+    ]
+  }
+]

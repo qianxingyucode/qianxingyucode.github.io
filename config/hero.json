@@ -1,0 +1,38 @@
+{
+  "name": "钱兴宇",
+  "title": "博士研究生",
+  "profileImage": "assets/xingyu-profile.png",
+  "brandLogo": "assets/brand.svg",
+  "descriptions": [
+    {
+      "icon": "openai",
+      "text": "中国人民大学高瓴人工智能学院"
+    },
+    {
+      "icon": "sparkles",
+      "text": "Agentic AI · AI for Healthcare"
+    }
+  ],
+  "primaryLinks": [
+    {
+      "label": "中文简历 ↗",
+      "url": "/files/resume_zh.pdf"
+    },
+    {
+      "label": "English CV ↗",
+      "url": "/files/resume_en.pdf"
+    }
+  ],
+  "socialLinks": [
+    {
+      "label": "Email",
+      "icon": "email",
+      "url": "mailto:xingyuqian@ruc.edu.cn"
+    },
+    {
+      "label": "Github",
+      "icon": "github",
+      "url": "https://github.com/qianxingyucode"
+    }
+  ]
+}

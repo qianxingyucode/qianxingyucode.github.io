@@ -1,0 +1,69 @@
+[
+  {
+    "id": "paper-0",
+    "title": "ACTOR: Agentic CT Reasoning with Radiologist-Aligned Actions",
+    "image": "assets/publications/actor-framework.png",
+    "authors": [
+      {
+        "text": "Xingyu Qian",
+        "strong": true
+      },
+      {
+        "text": ", Yu Sun, Songyou Li, Zongzhao Li, Jiacheng Cen, Wenqian Wu, Tingyang Xu, Yu Rong, Deli Zhao, Wenbing Huang"
+      }
+    ],
+    "venue": "EMNLP 2026 Main (Oral)",
+    "venueType": "conference",
+    "tags": [
+      "Agentic AI",
+      "AI for Healthcare"
+    ],
+    "citation": "Xingyu Qian, Yu Sun, Songyou Li, Zongzhao Li, Jiacheng Cen, Wenqian Wu, Tingyang Xu, Yu Rong, Deli Zhao, Wenbing Huang. ACTOR: Agentic CT Reasoning with Radiologist-Aligned Actions. EMNLP 2026 Main (Oral).",
+    "link": "https://aclanthology.org/2026.emnlp-main.2402/",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://aclanthology.org/2026.emnlp-main.2402.pdf"
+      }
+    ]
+  },
+  {
+    "id": "paper-1",
+    "title": "ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning",
+    "image": "assets/publications/reasonmed-pipeline.png",
+    "authors": [
+      {
+        "text": "Yu Sun, "
+      },
+      {
+        "text": "Xingyu Qian",
+        "strong": true
+      },
+      {
+        "text": ", Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong"
+      }
+    ],
+    "venue": "EMNLP 2025 (SAC Highlight Award — 35/3230)",
+    "venueType": "conference",
+    "tags": [
+      "Agentic AI",
+      "AI for Healthcare"
+    ],
+    "citation": "Yu Sun, Xingyu Qian, Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong. ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning. EMNLP 2025 (SAC Highlight Award — 35/3230).",
+    "link": "https://aclanthology.org/2025.emnlp-main.1344/",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://aclanthology.org/2025.emnlp-main.1344.pdf"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/papers/2506.09513"
+      }
+    ],
+    "notes": [
+      "Hugging Face 当日论文榜第1名。",
+      "获 Hugging Face CEO 推荐，并由 HF 社区官方转发。"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "items": [
+    {
+      "institution": "中国人民大学 (RUC)",
+      "degree": "博士研究生，高瓴人工智能学院",
+      "period": "2025.09 – 至今",
+      "description": "导师：黄文炳。",
+      "descriptionSegments": [
+        {
+          "text": "导师："
+        },
+        {
+          "text": "黄文炳",
+          "href": "https://scholar.google.com/citations?user=0yNkmO4AAAAJ"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "institution": "中南大学 (CSU)",
+      "degree": "自动化学院，人工智能专业",
+      "period": "2021.09 – 2025.06",
+      "description": "获2022年、2024年国家奖学金。",
+      "descriptionSegments": [
+        {
+          "text": "获2022年、2024年国家奖学金。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "site": {
+    "title": "Xingyu Qian · Academic",
+    "description": "I am a PhD student at the Gaoling School of Artificial Intelligence, Renmin University of China, since September 2025, advised by Wenbing Huang. I studied Artificial Intelligence at the School of Automation, Central South University, from September 2021 to June 2025, and received the National Scholarship in 2022 and 2024. From February 2025 to September 2026, I interned as an Algorithm Engineer working on Agentic AI at DAMO Academy, Alibaba Group, mentored by Yu Rong and Tingyang Xu.",
+    "language": "en",
+    "copyrightName": "Xingyu Qian"
+  },
+  "hero": {
+    "name": "Xingyu Qian",
+    "title": "PhD Student",
+    "profileImage": "assets/xingyu-profile.png",
+    "brandLogo": "assets/brand.svg",
+    "descriptions": [
+      {
+        "icon": "openai",
+        "text": "Gaoling School of Artificial Intelligence, Renmin University of China"
+      },
+      {
+        "icon": "sparkles",
+        "text": "Agentic AI · AI for Healthcare"
+      }
+    ],
+    "primaryLinks": [
+      {
+        "label": "中文简历 ↗",
+        "url": "/files/resume_zh.pdf"
+      },
+      {
+        "label": "English CV ↗",
+        "url": "/files/resume_en.pdf"
+      }
+    ],
+    "socialLinks": [
+      {
+        "label": "Email",
+        "icon": "email",
+        "url": "mailto:xingyuqian@ruc.edu.cn"
+      },
+      {
+        "label": "Github",
+        "icon": "github",
+        "url": "https://github.com/qianxingyucode"
+      }
+    ]
+  },
+  "about": {
+    "paragraphs": [
+      [
+        {
+          "text": "I am a "
+        },
+        {
+          "text": "PhD student",
+          "strong": true
+        },
+        {
+          "text": " at the "
+        },
+        {
+          "text": "Gaoling School of Artificial Intelligence, Renmin University of China",
+          "strong": true
+        },
+        {
+          "text": ", since September 2025, advised by "
+        },
+        {
+          "text": "Wenbing Huang",
+          "href": "https://scholar.google.com/citations?user=0yNkmO4AAAAJ"
+        },
+        {
+          "text": ". I studied Artificial Intelligence at the School of Automation, "
+        },
+        {
+          "text": "Central South University",
+          "strong": true
+        },
+        {
+          "text": ", from September 2021 to June 2025, and received the "
+        },
+        {
+          "text": "National Scholarship",
+          "strong": true
+        },
+        {
+          "text": " in 2022 and 2024. From February 2025 to September 2026, I interned as an Algorithm Engineer working on "
+        },
+        {
+          "text": "Agentic AI",
+          "strong": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "DAMO Academy, Alibaba Group",
+          "strong": true
+        },
+        {
+          "text": ", mentored by "
+        },
+        {
+          "text": "Yu Rong",
+          "href": "https://scholar.google.com/citations?user=itezhEMAAAAJ"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Tingyang Xu",
+          "href": "https://scholar.google.com/citations?user=6gIs5YMAAAAJ"
+        },
+        {
+          "text": "."
+        }
+      ]
+    ],
+    "researchInterests": [
+      "Agentic AI",
+      "AI for Healthcare"
+    ]
+  },
+  "news": [
+    {
+      "date": "2026",
+      "segments": [
+        {
+          "text": "ACTOR",
+          "strong": true,
+          "kind": "paper",
+          "href": "https://aclanthology.org/2026.emnlp-main.2402/"
+        },
+        {
+          "text": " accepted to "
+        },
+        {
+          "text": "EMNLP 2026 Main",
+          "strong": true,
+          "kind": "strong"
+        },
+        {
+          "text": " as an "
+        },
+        {
+          "text": "Oral",
+          "strong": true,
+          "kind": "oral"
+        },
+        {
+          "text": " presentation."
+        }
+      ]
+    },
+    {
+      "date": "2025",
+      "segments": [
+        {
+          "text": "ReasonMed",
+          "strong": true,
+          "kind": "paper",
+          "href": "https://aclanthology.org/2025.emnlp-main.1344/"
+        },
+        {
+          "text": " accepted to "
+        },
+        {
+          "text": "EMNLP 2025",
+          "strong": true,
+          "kind": "strong"
+        },
+        {
+          "text": " with a "
+        },
+        {
+          "text": "SAC Highlight Award",
+          "strong": true,
+          "kind": "award"
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "35/3230",
+          "strong": true,
+          "kind": "strong"
+        },
+        {
+          "text": ")."
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "id": "paper-0",
+      "title": "ACTOR: Agentic CT Reasoning with Radiologist-Aligned Actions",
+      "image": "assets/publications/actor-framework.png",
+      "authors": [
+        {
+          "text": "Xingyu Qian",
+          "strong": true
+        },
+        {
+          "text": ", Yu Sun, Songyou Li, Zongzhao Li, Jiacheng Cen, Wenqian Wu, Tingyang Xu, Yu Rong, Deli Zhao, Wenbing Huang"
+        }
+      ],
+      "venue": "EMNLP 2026 Main (Oral)",
+      "venueType": "conference",
+      "tags": [
+        "Agentic AI",
+        "AI for Healthcare"
+      ],
+      "citation": "Xingyu Qian, Yu Sun, Songyou Li, Zongzhao Li, Jiacheng Cen, Wenqian Wu, Tingyang Xu, Yu Rong, Deli Zhao, Wenbing Huang. ACTOR: Agentic CT Reasoning with Radiologist-Aligned Actions. EMNLP 2026 Main (Oral).",
+      "link": "https://aclanthology.org/2026.emnlp-main.2402/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://aclanthology.org/2026.emnlp-main.2402.pdf"
+        }
+      ]
+    },
+    {
+      "id": "paper-1",
+      "title": "ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning",
+      "image": "assets/publications/reasonmed-pipeline.png",
+      "authors": [
+        {
+          "text": "Yu Sun, "
+        },
+        {
+          "text": "Xingyu Qian",
+          "strong": true
+        },
+        {
+          "text": ", Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong"
+        }
+      ],
+      "venue": "EMNLP 2025 (SAC Highlight Award — 35/3230)",
+      "venueType": "conference",
+      "tags": [
+        "Agentic AI",
+        "AI for Healthcare"
+      ],
+      "citation": "Yu Sun, Xingyu Qian, Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong. ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning. EMNLP 2025 (SAC Highlight Award — 35/3230).",
+      "link": "https://aclanthology.org/2025.emnlp-main.1344/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://aclanthology.org/2025.emnlp-main.1344.pdf"
+        },
+        {
+          "label": "Hugging Face",
+          "url": "https://huggingface.co/papers/2506.09513"
+        }
+      ],
+      "notes": [
+        "Hugging Face #1 Paper of the Day.",
+        "Featured by the Hugging Face CEO and officially reposted by the HF community."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "organization": "DAMO Academy, Alibaba Group",
+      "logo": "assets/damo.svg",
+      "period": "2025.02 – 2026.09",
+      "role": "Algorithm Engineer Intern, Agentic AI",
+      "details": [
+        {
+          "label": "Mentorship:",
+          "text": "Mentors: Yu Rong and Tingyang Xu.",
+          "segments": [
+            {
+              "text": "Yu Rong",
+              "href": "https://scholar.google.com/citations?user=itezhEMAAAAJ"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "Tingyang Xu",
+              "href": "https://scholar.google.com/citations?user=6gIs5YMAAAAJ"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "education": {
+    "enabled": true,
+    "items": [
+      {
+        "institution": "Renmin University of China (RUC)",
+        "degree": "PhD Student, Gaoling School of Artificial Intelligence",
+        "period": "2025.09 – Present",
+        "description": "Advisor: Wenbing Huang.",
+        "descriptionSegments": [
+          {
+            "text": "Advisor: "
+          },
+          {
+            "text": "Wenbing Huang",
+            "href": "https://scholar.google.com/citations?user=0yNkmO4AAAAJ"
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "institution": "Central South University (CSU)",
+        "degree": "Artificial Intelligence, School of Automation",
+        "period": "2021.09 – 2025.06",
+        "description": "National Scholarship recipient in 2022 and 2024.",
+        "descriptionSegments": [
+          {
+            "text": "National Scholarship recipient in 2022 and 2024."
+          }
+        ]
+      }
+    ]
+  },
+  "awards": {
+    "enabled": true,
+    "items": [
+      {
+        "title": "First-Class Academic Scholarship",
+        "year": "2025",
+        "description": ""
+      },
+      {
+        "title": "SAC Highlight Award",
+        "year": "2025",
+        "description": "EMNLP 2025 · ReasonMed"
+      },
+      {
+        "title": "National Scholarship",
+        "year": "2024",
+        "description": ""
+      },
+      {
+        "title": "Mittal Scholarship (1/152)",
+        "year": "2023",
+        "description": ""
+      },
+      {
+        "title": "National Scholarship",
+        "year": "2022",
+        "description": ""
+      }
+    ]
+  },
+  "projects": []
+}

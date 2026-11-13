@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "items": [
+    {
+      "title": "学年一等奖学金",
+      "year": "2025",
+      "description": ""
+    },
+    {
+      "title": "SAC Highlight Award",
+      "year": "2025",
+      "description": "EMNLP 2025 · ReasonMed"
+    },
+    {
+      "title": "国家奖学金",
+      "year": "2024",
+      "description": ""
+    },
+    {
+      "title": "米塔尔奖学金（1/152）",
+      "year": "2023",
+      "description": ""
+    },
+    {
+      "title": "国家奖学金",
+      "year": "2022",
+      "description": ""
+    }
+  ]
+}

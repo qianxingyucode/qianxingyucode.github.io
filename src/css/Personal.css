@@ -1,0 +1,21 @@
+
+.personal-brand { font: 600 23px Georgia, "Songti SC", serif; letter-spacing: -.5px; text-align: left; white-space: nowrap; }
+.personal-brand small { display: block; font: 9px Arial,sans-serif; letter-spacing: 3px; margin-top: 4px; opacity: .55; }
+.language-link { text-decoration: none; justify-content: center; align-items: center; }
+.paper-notes { font-size: 13px; line-height: 1.65; padding-left: 18px; color: #527064; }
+.skip-link { position: fixed; top: -100px; left: 12px; z-index: 2000; background: white; padding: 12px; }
+.skip-link:focus { top: 10px; }
+:focus-visible { outline: 2px solid #32677a; outline-offset: 4px; }
+html[lang="zh-CN"] .intro-text { line-height: 2; }
+.profile-pic { width: min(88%, 230px); height: auto; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 38%; border-radius: 20px; margin-bottom: 1.4rem; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; } }
+
+.publication-image-link { display: block; flex: 0 0 240px; width: 240px; margin-right: 1.6rem; cursor: zoom-in; }
+.publication-image-link .publication-image { display: block; width: 100%; height: 160px; box-sizing: border-box; margin: 0; object-fit: contain; }
+@media (max-width: 1100px) {
+  .publication-image-link { flex: none; width: calc(100% - 2rem); margin: 1rem 0; }
+  .publication-image-link .publication-image { width: 100%; height: auto; }
+}
+
+.mentor-link { text-decoration: underline; text-decoration-color: #93a9ae; text-underline-offset: 3px; }
+.mentor-link:hover { text-decoration-color: currentColor; }
